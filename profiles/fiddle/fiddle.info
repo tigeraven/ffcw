@@ -1,0 +1,8 @@
+name = ST Fiddle
+description = ST Fiddle install fullsize package.
+version = VERSION
+core = 7.x
+dependencies[] = block
+files[] = fiddle.profile
+
+
